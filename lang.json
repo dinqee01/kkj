@@ -1,0 +1,18 @@
+{
+  "NoPermission": "You do not have permission for that command!",
+  "NoReasonFound": "Please provide a reason",
+  "NoUserFound": "Could Not Find User.",
+  "SuggestionEmbedFooter": "Use the suggest command to suggest an idea for the server!",
+  "NoSuggestionFound": "Please inform us of the suggestion.",
+  "SuggestionMadeReplyMessage": "Your suggestion has been added!",
+  "SuggestionCooldownMessage": "Please wait 15 minutes before adding another suggestion!",
+  "BugReportEmbedFooter": "Use the bugreport command to report any bugs you've found on the server",
+  "NoBugFound": "Please inform us of the bug.",
+  "BugReportedReplyMessage": "Thanks for reporting the bug!",
+  "BugReportCooldownMessage": "Please wait 5 minutes before reporting another bug.",
+  "NoArgumentsFound": "Please provide text for the bot to say!",
+  "AnnounceEmbedFooter": "Server's Announcements",
+  "JoinMessage": "✅ ${member} has joined the server.",
+  "LeaveMessage": "❌ ${member} has left the server.",
+  "IpEmbedTitle": "Server IP"
+}

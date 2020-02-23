@@ -1,0 +1,7 @@
+{
+  "ServerName": "ExamplePvP",
+  "GamemodeNameOne": "Gamemode1",
+  "GamemodeOneURL": "https://api.minetools.eu/ping/play.example.com/25565",
+  "GamemodeOneQueryURL": "https://api.minetools.eu/ping/play.example.com/25565",
+  "Gamemode1url": "https://api.minetools.eu/ping/play.example.com/25565"
+}
